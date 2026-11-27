@@ -23,6 +23,6 @@
 │  [+] CTF                                        │
 │  [+] Malware Analysis                           │
 │                                                 │
-│  STATUS: ONLINE                                 │
+│  STATUS: ONLINE 2026                                │
 │                                                 │
 └─────────────────────────────────────────────────┘
